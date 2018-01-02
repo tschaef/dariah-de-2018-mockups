@@ -1,5 +1,5 @@
 $typo-min-line-height-ratio: .5 !default;
-$typo-scale-ratio: 1.25;
+$typo-scale-ratio: 1.25 !default;
 $typo-scale-sizing-factor: 1 !default;
 
 @mixin typo-scale($increment) {
